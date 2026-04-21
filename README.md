@@ -1,6 +1,6 @@
 # Team-1
 
-Team-1 is a minimalist, full-stack job board platform built for clarity and speed. It connects talent with companies through a clean, modern interface, supporting role-based authentication and secure file uploads.
+Team-1 is a full-stack job board platform built for clarity and speed. It connects talent with companies through an interface, supporting role-based authentication and secure file uploads.
 
 ## Tech Stack
 
