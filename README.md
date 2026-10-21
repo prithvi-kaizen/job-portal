@@ -1,3 +1,5 @@
+> **Archived project.** This repository is preserved as an earlier implementation. For the primary project, see [web-tech-final-project](https://github.com/prithvi-kaizen/web-tech-final-project).
+
 # Team-1
 
 Team-1 is a full-stack job board platform built for clarity and speed. It connects talent with companies through an interface, supporting role-based authentication and secure file uploads.
